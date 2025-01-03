@@ -1,6 +1,6 @@
 # delete-merged
 
-Delete merged branches
+Delete merged branches locally
 
 ## Usage
 
