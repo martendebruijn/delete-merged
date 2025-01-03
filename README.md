@@ -20,7 +20,7 @@ python3 path/to/delete-merged/main.py
 
 - **[@martendebruijn](https://github.com/martendebruijn)** - Owner
 
-For a full list of contributors, please see the [contributors list](https://github.com/martendebruijn/types/graphs/contributors).
+For a full list of contributors, please see the [contributors list](https://github.com/martendebruijn/delete-merged/graphs/contributors).
 
 ## License
 
